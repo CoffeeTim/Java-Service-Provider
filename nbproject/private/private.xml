@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/Interfaces/InterfaceUser.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/Utils/dbConnection.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/controllers/HomeController.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/view/login.fxml</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/controllers/AddFreelancer.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/view/addFreelancer.fxml</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/Services/ServiceUser.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/view/home.fxml</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/controllers/DashboardController.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/ServiceProvider.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/controllers/FrontDashboard.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/controllers/ControllerMain.java</file>
+            <file>file:/C:/Users/Hamza_Azzabi/Documents/NetBeansProjects/ServiceProvider/src/serviceprovider/controllers/LoginController.java</file>
+        </group>
+    </open-files>
+</project-private>

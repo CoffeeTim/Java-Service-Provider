@@ -1,0 +1,2 @@
+ServiceProvider.controllers.ControllerUserManager$1
+ServiceProvider.controllers.ControllerUserManager

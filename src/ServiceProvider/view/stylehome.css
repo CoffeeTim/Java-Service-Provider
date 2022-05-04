@@ -1,0 +1,68 @@
+.menuItem:hover{
+    -fx-border-color: #660099;
+    -fx-border-width: 0px 0px 3px 0px;
+}
+
+.sidebarItem:hover{
+    -fx-background-color: #146886;
+    -fx-border-color: WHITE;
+    -fx-border-width: 0px 0px 0px 3px;
+}
+
+/* font size */
+.fn-14 {
+    -fx-font-size:14px;
+}
+.fn-16 {
+    -fx-font-size:16px;
+}
+.fn-18 {
+    -fx-font-size:18px;
+}
+.fn-24 {
+    -fx-font-size:24px;
+}
+.fn-32 {
+    -fx-font-size:32px;
+}
+
+/* text alignments */
+
+.txt-center {
+    -fx-text-alignments:center;
+}
+.txt-left {
+    -fx-text-alignments:left;
+}
+.txt-right {
+    -fx-text-alignments:right;
+}
+.txt-justify {
+    -fx-text-alignments:justify;
+}
+
+/* text colors */
+
+.fill-light-grey{
+    -fx-fill: #f4f5f6;
+    -fx-text-fill: #f4f5f6;
+}
+
+.fill-green{
+    -fx-fill: #38a700;
+    -fx-text-fill: #38a700;
+}
+
+.fill-dark{
+    -fx-fill: #000000;
+    -fx-text-fill: #000000;
+}
+
+.fill-white{
+    -fx-fill: #ffffff;
+    -fx-text-fill: #ffffff;
+}
+
+.fill-light-green{
+    -fx-background-color: #9bdc90;
+}

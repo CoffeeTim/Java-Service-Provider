@@ -1,0 +1,2 @@
+ServiceProvider.controllers.CaptureCameraController$VideoTacker
+ServiceProvider.controllers.CaptureCameraController

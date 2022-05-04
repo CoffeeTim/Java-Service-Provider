@@ -1,5 +1,6 @@
 package Entities;
 
+import java.time.LocalDateTime;
 import java.util.Date;
 
 public class User {
@@ -21,6 +22,17 @@ public class User {
     private boolean isVerified;
 
     public User() {
+    }
+
+    public User(String nom, String prenom, String username, String email, String password, int phone, String role) {
+        this.nom = nom;
+        this.prenom = prenom;
+        this.username = username;
+        this.email = email;
+        this.password = password;
+        this.phone = phone;
+        this.role = role;
+
     }
 
     public String getNom() {
